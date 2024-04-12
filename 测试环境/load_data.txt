@@ -1,0 +1,8 @@
+D:/Users/pbl/Desktop/input
+D:/Users/pbl/Desktop/output
+2
+400
+
+0
+auto
+0.5
