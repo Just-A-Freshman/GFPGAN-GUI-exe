@@ -1,0 +1,25 @@
+{
+    "theme_picture": {
+        "main_frame_img": "Data/Theme/Data/Dark1.jpg",
+        "crop_frame_img": "Data/Theme/Data/Dark2.jpg",
+        "search_ico": "Data/ico/Dark_search.png"
+    },
+    "theme_color": {
+        "win_bg": "#323233",
+        "main_fg": "#E8E8E8",
+        "button_fg": "#3A94FF",
+        "button_bg": "#4D70FF",
+        "execute_btn_bg": "#5E5E5E",
+        "execute_btn_fg": "#F7F7F7",
+        "btn_enter_bg": "#3E3E3E",
+        "entry_highlight_bg": "#7A7A7A", 
+        "entry_bg": "#666666",
+        "scrollbar_bg": "#585954",
+        "scrollbar_highlight_bg": "#6F706A",
+        "canvas_bg": "#3C3C3D",
+        "progressbar_color": "#4997D6",
+        "switch_frame_bg": "#454545",
+        "switch_frame_fg": "#CCCCCC",
+        "switch_frame_unselect_bg": "#252526"
+    }
+}
