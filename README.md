@@ -1,7 +1,6 @@
-我用夸克网盘分享了「超分辨率.zip」,
-链接：https://pan.quark.cn/s/13ca851fdc45
-解压后既有.exe程序可以直接使用。但是程序只支持CPU使用，  
-如果想将程序也支持GPU使用只需要修改一下源码重新打包即可。里面的_internal是经过缩减的依赖项，
-你可以使用pyinstaller的-D选项重新打包，然后将打包后的.exe程序迁移到我的包含_internal的文件夹下。
-GUI程序有点不足之处，一些我感觉不常用的参数没有给出选项。
+基于开源项目: https:github.com/TencentARC/GFPGAN  封装而成
+源代码见上传的文件夹，main.py就是程序入口
+Exe可执行文件因为整个文件夹体积较大(压缩后在672MB, 解压后刚好1GB)暂未上传最新版本，可以先使用打包好的旧版本
+夸克网盘: https://pan.quark.cn/s/9b0ec5a3b71f
+提取码: mfF2
 
