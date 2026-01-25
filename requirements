@@ -1,0 +1,13 @@
+basicsr==1.4.2
+customtkinter==5.2.2
+numpy==1.26.4
+opencv-python==4.5.5.64
+pillow==12.1.0
+psutil==7.2.1
+scipy==1.17.0
+Send2Trash==2.1.0
+tb-nightly==2.21.0a20251023
+torch==2.2.0
+torchaudio==2.2.0
+torchvision==0.17.0
+facelib==1.2.1
