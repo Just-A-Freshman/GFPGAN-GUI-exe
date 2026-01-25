@@ -1,0 +1,25 @@
+{
+    "theme_picture": {
+        "main_frame_img": "Data/Theme/Data/Light.jpg",
+        "crop_frame_img": "Data/Theme/Data/Light2.jpg",
+        "search_ico": "Data/ico/Light_search.png"
+    },
+    "theme_color": {
+        "win_bg": "#EEE1C8",
+        "main_fg": "#141414",
+        "button_fg": "#AB6442",
+        "button_bg": "#AB7E6A",
+        "execute_btn_bg": "#AC7054",
+        "execute_btn_fg": "#FFFFFF",
+        "btn_enter_bg": "#E3D7BF",
+        "entry_bg": "#FDFDFD",
+        "entry_highlight_bg": "#EBEBEB",
+        "scrollbar_bg": "#D9CDB6",
+        "scrollbar_highlight_bg": "#C2B7A3",
+        "canvas_bg": "#FAECD2",
+        "progressbar_color": "#9FC29F",
+        "switch_frame_unselect_bg": "#AB6442",
+        "switch_frame_bg": "#844D33",
+        "switch_frame_fg": "#FFFFFF"                                                                                             
+    }
+}
