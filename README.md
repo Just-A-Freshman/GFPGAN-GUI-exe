@@ -13,9 +13,11 @@
 pip install -r requirements.txt
 ```
 
-安装依赖后，你需要下载模型并将模型放置到gfpgan/weights/目录下。
-模型下载地址：[https://github.com/Just-A-Freshman/GFPGAN-GUI-exe/releases/download/models/models.7z](https://github.com/Just-A-Freshman/GFPGAN-GUI-exe/releases/download/models/models.7z)
+注意不要直接运行main.py，先运行gfpgan/utils.py，确保能跑通才行。torchvision可能报错：```No module named ‘torchvision.transforms.functional_tensor```，解决办法把报错文件里的```torchvision.transforms.functional_tensor```改为```torchvision.transforms.functional```
 
-## 打包程序下载地址
+安装依赖后，你需要下载模型并将三个模型解压到gfpgan/weights/目录下。
+三个模型模型压缩包的下载地址：[https://github.com/Just-A-Freshman/GFPGAN-GUI-exe/releases/download/models/models.7z](https://github.com/Just-A-Freshman/GFPGAN-GUI-exe/releases/download/models/models.7z)
 
+## 打包程序下载地址(Windows版本，可一键运行)
+[https://github.com/Just-A-Freshman/GFPGAN-GUI-exe/releases/download/program/default.zip](https://github.com/Just-A-Freshman/GFPGAN-GUI-exe/releases/download/program/default.zip)
 
