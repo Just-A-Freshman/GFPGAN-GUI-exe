@@ -8,9 +8,14 @@
 由于使用cv2进行了图像处理。该图像处理库对中文路径非常敏感，直接导致中文名或中文路径下的图片不可被正常处理。虽然实际上我们可以在代码中将文件迁移到在一个特定的英文路径下重命名来解决这个问题，但是我太懒了，完全不想维护这个项目了。
 
 ## 环境配置
-你需要将模型放置到gfpgan/weights/目录下；模型下载地址：[https://github.com/Just-A-Freshman/GFPGAN-GUI-exe/releases/download/models/models.7z](https://github.com/Just-A-Freshman/GFPGAN-GUI-exe/releases/download/models/models.7z)
+你需要Python版本在3.7-3.8之间，随后使用如下命令安装依赖：
+```
+pip install -r requirements.txt
+```
 
-## 下载地址
-夸克网盘: https://pan.quark.cn/s/9b0ec5a3b71f
-提取码: mfF2
+安装依赖后，你需要下载模型并将模型放置到gfpgan/weights/目录下。
+模型下载地址：[https://github.com/Just-A-Freshman/GFPGAN-GUI-exe/releases/download/models/models.7z](https://github.com/Just-A-Freshman/GFPGAN-GUI-exe/releases/download/models/models.7z)
+
+## 打包程序下载地址
+
 
